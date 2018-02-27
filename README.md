@@ -2,7 +2,7 @@
 
 Hello everyone.
 My name is Jpm704, and I am pretty new to programming.
-I am currently attending a university, but I have a strong desire to learn from experiance developers.
+I am currently attending a university, but I have a strong desire to learn from experianced developers.
 Starting out I have felt somewhat overwhelmed at times, but only because I realize how much is involved.
 I am eager to learn, and welcome any advice.
 I realize the value of learning from people with experiance, and look forward to the oportunities that may present themselves.
